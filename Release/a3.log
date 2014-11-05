@@ -1,0 +1,5 @@
+﻿  main.cpp
+main.cpp(38): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+main.cpp(152): warning C4060: switch statement contains no 'case' or 'default' labels
+RK4.lib(integrator.obj) : warning LNK4204: 'C:\Users\Harjinder\Documents\Visual Studio 2010\Projects\3_ParticleSimulation\Release\vc100.pdb' is missing debugging information for referencing module; linking object as if no debug info
+  a3.vcxproj -> C:\Users\Harjinder\Documents\Visual Studio 2010\Projects\3_ParticleSimulation\Release\a3.exe
